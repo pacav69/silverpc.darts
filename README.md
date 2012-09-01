@@ -6,7 +6,8 @@ silverpc darts
 This application is intended for darts scoring.
 
 Input of scores for x01 eg 301, 501, 801, 1001
-input of scores for mickey mouse.
+
+Input of scores for mickey mouse.
 
 Mickey mouse is a varient of what is called cricket 
 where it has 20, 19, 18, 17, 16, 15, doubles, triples and bulls.
