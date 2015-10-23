@@ -3,7 +3,7 @@ silverpc.darts
 
 silverpc darts
 
-This application is intended for darts scoring.
+This application is intended for darts scoring for android devices.
 
 Input of scores for x01 eg 301, 501, 801, 1001
 
