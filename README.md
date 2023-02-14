@@ -16,3 +16,12 @@ where it has 20, 19, 18, 17, 16, 15, doubles, triples and bulls.
 
 The scorer selects a player then chooses to add score
 this will display input keys for the scorer to select.
+
+
+## Support
+
+<img src="https://vangogh.teespring.com/v3/image/SugZ-DRGZXUTuSzfrFtaOU3TAUQ/800/800.jpg" width="100px"  height="100px">
+
+[Help support by buying some merchandise](https://cavtronics-3.creator-spring.com/)
+
+
